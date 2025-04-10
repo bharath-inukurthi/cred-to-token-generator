@@ -88,3 +88,16 @@ creds = Credentials.from_authorized_user_file('token.json')
 - Always keep `credentials.json` and `token.json` secure. Do not expose them in public repositories.
 
 ---
+
+## Feedback
+
+If you have any feedback, please reach out to us at bharathinukurthi1@gmail.com
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://everything-about-bharath.webflow.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-kumar-inukurthi/)
+
+
+
